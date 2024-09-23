@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louise.tanter-tanguy@getaround.com
+	name = louise tt
